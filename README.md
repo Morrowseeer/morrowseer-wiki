@@ -1,6 +1,5 @@
-<sup>i promise its somewhat decent</sup>
 # Morrowseer Wiki
-Pretty much just a bunch of websites that look like Wikipedia/MediaWiki pages but
+Pretty much just a bunch of webpages that look like Wikipedia/MediaWiki pages but
 - it's not running on a MediaWiki instance and
 - you have to edit pages here.
 
